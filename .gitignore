@@ -1,0 +1,6 @@
+data/
+env/
+experiments-results/
+procesed-data/
+procesed-data-testing/
+procesed-data-validation/
