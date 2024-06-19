@@ -21,7 +21,7 @@ class KMeansClustering:
         if self.random_state is not None:
             np.random.seed(self.random_state)
 
-        self.centroids = np.random.uniform(np.amin(X, axis=0), np.amax(X, axis=0), size=(self.n_clusters, X.shape[1]))
+        self.centroids = np.random.randn(self.n_clusters, X.shape[1])
 
         for _ in range(max_iterations):
             y = []
