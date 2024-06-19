@@ -1,7 +1,7 @@
 # Proyecto 03 - Machine Learning
 
 ## Integrantes
-
+- Michel Marcelo Jaramillo (100%)
 - Sanders Chancan Chanca (100%)
 
 ## Archivos adicioneles
