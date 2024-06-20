@@ -3,6 +3,9 @@
 ## Integrantes
 
 - Sanders Chancan Chanca (100%)
+- Marcelo Jaramillo, Michel (5%)
+- Acervo Correa, Renzo Alfonso (0%)
+- Guimarey Saavedra, Anthony (35%)
 
 ## Archivos adicioneles
 
